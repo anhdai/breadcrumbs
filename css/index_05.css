@@ -1,4 +1,27 @@
 @charset "utf-8";
 .global_nav_05 {
-	padding-left: 65px;
+	padding: 9px 0 9px 65px;
+	font-size: 12px;
+	line-height: 12px;
+}
+
+.global_nav_05 li {
+	float: left;
+}
+
+.global_nav_05 li a {
+	display: block;
+	padding: 0 12px;
+	font-weight: 700;
+	border-left: solid 1px #999;
+	color: #069;
+	text-decoration: none;
+}
+
+.global_nav_05 .first_item a {
+	border: none;
+}
+
+.global_nav_05  a:hover {
+	text-decoration: underline;
 }
