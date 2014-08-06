@@ -1,0 +1,18 @@
+@charset "utf-8";
+.global_nav_03 {
+	padding-left: 50px;
+}
+
+.inner_nav_03 {
+	background: url(../img/share/index_03-bg-breadcrumb.jpg) no-repeat ;
+	height: 33px;
+}
+
+.nav_03 {
+	padding-top: 6px;
+	padding-left: 15px;
+}
+
+.nav_03 a {
+	color: #000;
+}

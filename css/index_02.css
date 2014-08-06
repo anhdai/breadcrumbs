@@ -1,0 +1,23 @@
+@charset "utf-8";
+.global_nav_02 {
+	padding-left: 65px;
+}
+
+.global_nav_02 span {
+	background: url(../img/share/index_02-ico-next.png) no-repeat 5px 50%;
+	padding-left: 20px;
+}
+
+.global_nav_02 .first_item {
+	background: none;
+	padding-left: 0;
+}
+
+.global_nav_02 span a {
+	color: #929E6B;
+}
+
+.global_nav_02 span a:hover {
+	color: #E5E1C0;
+	text-decoration: underline;
+}

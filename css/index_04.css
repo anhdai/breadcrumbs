@@ -1,0 +1,32 @@
+@charset "utf-8";
+.global_nav_04 {
+	padding-left: 65px;
+}
+
+.global_nav_04 ul {
+	display: inline;
+}
+
+.global_nav_04 li {
+	float: left;
+	background: url(../img/share/index_04-ico-left_arrow.gif) no-repeat 100% 7px;
+	display: inline;
+	margin-right: .5em;
+	line-height: 1em;
+	padding-right: 10px;
+}
+
+.global_nav_04 a {
+	color: #8a282d;
+	text-decoration: underline;
+}
+
+.global_nav_04 li.last_item {
+	background: url(../img/share/index_04-ico-down_arrow.gif) no-repeat 100% 7px;
+}
+
+.global_nav_04 .last_item a {
+	color: #000;
+	text-decoration: none;
+}
+
